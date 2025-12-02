@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    
+    <!-- Page d'accueil principale -->
+    <url>
+        <loc>https://portfoliorimbourogaa.netlify.app/</loc>
+        <lastmod>2025-01-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Section Accueil -->
+    <url>
+        <loc>https://portfoliorimbourogaa.netlify.app/#home</loc>
+        <lastmod>2025-01-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    
+    <!-- Section À propos -->
+    <url>
+        <loc>https://portfoliorimbourogaa.netlify.app/#about</loc>
+        <lastmod>2025-01-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Section Compétences -->
+    <url>
+        <loc>https://portfoliorimbourogaa.netlify.app/#portfolio</loc>
+        <lastmod>2025-01-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Section Éducation -->
+    <url>
+        <loc>https://portfoliorimbourogaa.netlify.app/#service</loc>
+        <lastmod>2025-01-27</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Section Expériences -->
+    <url>
+        <loc>https://portfoliorimbourogaa.netlify.app/#experience</loc>
+        <lastmod>2025-01-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+    </url>
+    
+    <!-- Section Projets -->
+    <url>
+        <loc>https://portfoliorimbourogaa.netlify.app/#blog</loc>
+        <lastmod>2025-01-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Section Engagements -->
+    <url>
+        <loc>https://portfoliorimbourogaa.netlify.app/#engagements</loc>
+        <lastmod>2025-01-27</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+    <!-- Section Certifications -->
+    <url>
+        <loc>https://portfoliorimbourogaa.netlify.app/#certifications</loc>
+        <lastmod>2025-01-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Section Contact -->
+    <url>
+        <loc>https://portfoliorimbourogaa.netlify.app/#contact-section</loc>
+        <lastmod>2025-01-27</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+</urlset>
+
